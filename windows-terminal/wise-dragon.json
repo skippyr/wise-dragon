@@ -1,0 +1,23 @@
+{
+    "name": "Wise Dragon",
+    "background": "#140f0d",
+    "foreground": "#e6c3ae",
+    "cursorColor": "#e6c3ae",
+    "selectionBackground": "#e6c3ae",
+    "black": "#140f0d",
+    "red": "#852d25",
+    "green": "#0a4b69",
+    "yellow": "#137291",
+    "blue": "#856956",
+    "purple": "#a13020",
+    "cyan": "#c46747",
+    "white": "#e6c3ae",
+    "brightBlack": "#856956",
+    "brightRed": "#852d25",
+    "brightGreen": "#0a4b69",
+    "brightYellow": "#137291",
+    "brightBlue": "#856956",
+    "brightPurple": "#a13020",
+    "brightCyan": "#c46747",
+    "brightWhite": "#e6c3ae"
+}

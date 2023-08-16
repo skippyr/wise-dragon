@@ -1,0 +1,31 @@
+[metadata]
+name = "Wise Dragon"
+author = "Sherman Rofeman"
+origin_url = "https://github.com/skippyr/wise-dragon"
+[colors]
+background = "#140f0d"
+foreground = "#e6c3ae"
+cursor_bg = "#e6c3ae"
+cursor_fg = "#140f0d"
+selection_bg = "#e6c3ae"
+selection_fg = "#140f0d"
+ansi = [
+    "#140f0d",
+    "#852d25",
+    "#0a4b69",
+    "#137291",
+    "#856956",
+    "#a13020",
+    "#c46747",
+    "#e6c3ae"
+]
+brights = [
+    "#856956",
+    "#852d25",
+    "#0a4b69",
+    "#137291",
+    "#856956",
+    "#a13020",
+    "#c46747",
+    "#e6c3ae"
+]
