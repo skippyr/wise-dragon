@@ -21,6 +21,9 @@ These are the colors used in the theme:
 | Cyan                | 6    | `#c46747` |
 | White (foreground)  | 7    | `#e6c3ae` |
 
+### Support
+Report issues, questions and suggestions through its [issues page](https://github.com/skippyr/wise-dragon/issues).
+
 ## Copyright
 This software is under the BSD-3-Clause license. A copy of the license is
 bundled with the source code.
